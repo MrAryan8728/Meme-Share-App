@@ -31,11 +31,8 @@ and API.
 ![App Screenshot](https://github.com/MrAryan8728/Meme-Share-App/blob/main/screenshots/Screenshot.jpg?raw=true)
 
 
-## Technology Stack
+## Library used
 1.Glide Library
 
 2.Volley Library
 
-3.REST API
-
-4.Android Studio
